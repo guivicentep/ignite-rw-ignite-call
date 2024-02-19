@@ -1,6 +1,7 @@
 import { Button, TextInput } from '@ignite-ui/react'
-import { Form } from './styles'
 import { ArrowRight } from 'phosphor-react'
+
+import { Form } from './styles'
 
 export function ClaimUsernameForm() {
   return (
